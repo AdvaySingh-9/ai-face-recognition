@@ -24,7 +24,7 @@ A Python-based real-time face recognition system that uses OpenCV and LBPH (Loca
 
 ```bash
 git clone https://github.com/AdvaySingh-9/ai-face-recognition
-
+cd ai-face-recognition
 ```
 
 ### 2. Install Dependencies
